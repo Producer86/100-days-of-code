@@ -77,3 +77,4 @@ For example, in a project, I had a backend with a structure similar to MVC, but 
 
 So I'm looking forward to learning more about these things called classes, whatever they are.
 
+**Link to Twitter:** [Twitter](https://twitter.com/SzunTB)

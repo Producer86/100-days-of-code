@@ -1,30 +1,34 @@
 # 100 Days Of Code - Log
+<h3>
+Hello,
+</h3>
+And welcome to the logs of my 100 days of code challenge!
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+My name is TB, at the time of writing this I'm a freelance software developer and there's a language, R, which I use relatively often, but our relationship is not cloudless, so I'm starting this challenge to improve it.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Also, I want to work on my barely existent statistical skills, because I could see good use of them and anyways yay doing science. :D
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+The plan is to work my way through the
+[R Manuals](https://cran.r-project.org/manuals.html)
+first, the language definition and the internals, to get a bit better feel for what's going on under the hood.
+Then I saw [Computer Age Statistical Inference](https://web.stanford.edu/~hastie/CASI/) and [Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do) recommended, which both seems a hell of a lot of fun indeed.
 
-**Link to work:** [Calculator App](http://www.example.com)
+Now, given that I move along books which involves a lot of reading and also don't know how beefy is the math in them, so there's a chance there will be times when I don't actually write code but instead figure out the math or just, you know, read. But as long as I keep up with the logs it should be fine I think. We shall see!
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Cheers,
+TB
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+---
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+<h2 align="center">
+Day 1: Day Month 01, 2018
+</h2>
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today’s Progress**: Write progress here.
 
+**Thoughts:** Write additional thoughts here.
 
-### Day 1: June 27, Monday
+**Link to tweet:** [yourName Day 1](insertLinkToTweet)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Link to work:** [nameOfWork](insertLinkHere)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)

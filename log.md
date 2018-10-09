@@ -21,7 +21,7 @@ TB
 ---
 <a id="day1"></a>
 <h2 align="center">
-Day 1: Monday October 10, 2018
+Day 1: Monday October 08, 2018
 </h2>
 
 **Today’s Progress**: Read the objects chapter in the R language definition.
@@ -76,5 +76,24 @@ For example, in a project, I had a backend with a structure similar to MVC, but 
 /rambling<br>
 
 So I'm looking forward to learning more about these things called classes, whatever they are.
+
+**Link to Twitter:** [Twitter](https://twitter.com/SzunTB)
+
+---
+<h2 align="center">
+Day 2: Tuesday October 09, 2018
+</h2>
+
+**Today’s Progress**: Finished chapter 3 in the R manual.
+
+**Thoughts:**
+
+It was about the evaluation of expressions. Went through on basic operators, control structures, with a bit more depth on operators NA handling and indexing, then finished with a good chunk about scoping.
+
+The most important part was that the `if (...) ... else ...` statement actually has a return value, which is the statement evaluated based on the condition. So there it is, the missing ternary operator is the structure itself! :D
+
+Speaking of which, still no further info about indexing and attributes, other than [[ drops names, while [ doesn't, which makes sense.
+
+Got some solid "good to know" info overall, so sailing forward.
 
 **Link to Twitter:** [Twitter](https://twitter.com/SzunTB)

@@ -1,9 +1,8 @@
+<a id="day1"></a>
 ---
 <h2 align="center">
 Day 1: Monday October 10, 2018
 </h2>
-
-<img src=”#" alt=””>
 
 **Today’s Progress**: Write progress here.
 

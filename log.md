@@ -80,6 +80,7 @@ So I'm looking forward to learning more about these things called classes, whate
 **Link to Twitter:** [Twitter](https://twitter.com/SzunTB)
 
 ---
+<a id="day2"></a>
 <h2 align="center">
 Day 2: Tuesday October 09, 2018
 </h2>

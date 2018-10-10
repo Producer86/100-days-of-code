@@ -1,5 +1,5 @@
-<a id="day1"></a>
 ---
+<a id="day1"></a>
 <h2 align="center">
 Day 1: Monday October 10, 2018
 </h2>

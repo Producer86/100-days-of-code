@@ -77,7 +77,7 @@ For example, in a project, I had a backend with a structure similar to MVC, but 
 
 So I'm looking forward to learning more about these things called classes, whatever they are.
 
-**Link to Twitter:** [Twitter](https://twitter.com/SzunTB)
+**Link to tweet:** [Day 1](https://twitter.com/SzunTB/status/1049435242761789440)
 
 ---
 <a id="day2"></a>
@@ -97,4 +97,20 @@ Speaking of which, still no further info about indexing and attributes, other th
 
 Got some solid "good to know" info overall, so sailing forward.
 
-**Link to Twitter:** [Twitter](https://twitter.com/SzunTB)
+**Link to tweet:** [Day 2](https://twitter.com/SzunTB/status/1049789287598878720)
+
+---
+<a id="day3"></a>
+<h2 align="center">
+Day 1: Wednesday October 10, 2018
+</h2>
+
+**Today’s Progress**: Finished chapter 4 in the R manual.
+
+**Thoughts:**
+
+This was a fairly short chapter and most concepts were familiar so I could move quickly.<br>
+The only idea, which is quite new to me is storing function arguments in promises, but I think it's neat.<br>
+That's it, short chapter, short update. :)
+
+**Link to tweet:** [Day 3](https://twitter.com/SzunTB/status/1049989602772172800)

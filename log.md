@@ -102,7 +102,7 @@ Got some solid "good to know" info overall, so sailing forward.
 ---
 <a id="day3"></a>
 <h2 align="center">
-Day 1: Wednesday October 10, 2018
+Day 3: Wednesday October 10, 2018
 </h2>
 
 **Today’s Progress**: Finished chapter 4 in the R manual.

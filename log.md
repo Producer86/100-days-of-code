@@ -105,7 +105,7 @@ Got some solid "good to know" info overall, so sailing forward.
 Day 3: Wednesday October 10, 2018
 </h2>
 
-**Today’s Progress**: Finished chapter 4 in the R manual.
+**Today’s Progress**: Finished chapter 4 in the R manual about functions.
 
 **Thoughts:**
 
@@ -114,3 +114,20 @@ The only idea, which is quite new to me is storing function arguments in promise
 That's it, short chapter, short update. :)
 
 **Link to tweet:** [Day 3](https://twitter.com/SzunTB/status/1049989602772172800)
+
+---
+<a id="day4"></a>
+<h2 align="center">
+Day 4: Thursday October 11, 2018
+</h2>
+
+**Today’s Progress**: Finished chapter 5 in the R manual about OOP.
+
+**Thoughts:**
+
+It quickly turned out that the manual writes about the older mechanism, called S3, and there's a newer one, called S4.<br>
+So this one, admittedly, is not too complicated. As the manual says, it's mainly a naming convention. I did my naive take on it, which took unnecessarily long because I tried the good old person, worker inheritance and as it turned out there are already methods in the base package for a person class, so got some quite surprising error messages.
+Overall I can see the use cases, a few one-liners can save a good amount of element extraction, that's nice, but even the manual encourages to keep things simple.<br>
+Glanced a bit into the S4 method too, where there are some more serious contracts are, but it looks terribly cumbersome.
+
+**Link to tweet:** [yourName Day 1](insertLinkToTweet)

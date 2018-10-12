@@ -75,8 +75,6 @@ So overall I think what caused me a lot of trouble in the past is the fact that 
 For example, in a project, I had a backend with a structure similar to MVC, but only "Models" and "Controllers". Since it used MongoDB I already had "Models" so renamed them to "Managers", but it runs in a cluster managed by Kubernetes, which has a "Controller-Manager"...you get the point :D<br>
 /rambling<br>
 
-So I'm looking forward to learning more about these things called classes, whatever they are.
-
 **Link to tweet:** [Day 1](https://twitter.com/SzunTB/status/1049435242761789440)
 
 ---
@@ -126,8 +124,8 @@ Day 4: Thursday October 11, 2018
 **Thoughts:**
 
 It quickly turned out that the manual writes about the older mechanism, called S3, and there's a newer one, called S4.<br>
-So this one, admittedly, is not too complicated. As the manual says, it's mainly a naming convention. I did my naive take on it, which took unnecessarily long because I tried the good old person, worker inheritance and as it turned out there are already methods in the base package for a person class, so got some quite surprising error messages.
+So this one, admittedly, is not too complicated. As the manual says, it's mainly a naming convention. I did [my naive take on it](https://github.com/Producer86/100-days-of-code/blob/master/works/day4/s3.R), which took unnecessarily long because I tried the good old person, worker inheritance and as it turned out there are already methods in the base package for a person class, so got some quite surprising error messages.
 Overall I can see the use cases, a few one-liners can save a good amount of element extraction, that's nice, but even the manual encourages to keep things simple.<br>
-Glanced a bit into the S4 method too, where there are some more serious contracts are, but it looks terribly cumbersome.
+Glanced a bit into the S4 method too, where there are some more serious contracts, it looks terribly cumbersome.
 
-**Link to tweet:** [yourName Day 1](insertLinkToTweet)
+**Link to tweet:** [Day 4](https://twitter.com/SzunTB/status/1050550675082489856)

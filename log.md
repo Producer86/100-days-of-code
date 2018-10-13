@@ -129,3 +129,32 @@ Overall I can see the use cases, a few one-liners can save a good amount of elem
 Glanced a bit into the S4 method too, where there are some more serious contracts, it looks terribly cumbersome.
 
 **Link to tweet:** [Day 4](https://twitter.com/SzunTB/status/1050550675082489856)
+
+---
+<a id="day5"></a>
+<h2 align="center">
+Day 5: Friday October 12, 2018
+</h2>
+
+**Today’s Progress**: Finished chapter 6 in the R manual about language obejcts.
+
+**Thoughts:**
+
+This chapter is a good candidate for the "if you read only one, read this"-title, R def makes more sense now. Basically, it grants access to expressions and functions after they had been parsed, but before evaluation and also allows traversing of scopes when they're evaluated, resulting in a non-standard evaluation.<br>
+
+>`> square  <- function(x, y) {`<br>
+>`+   substitute(x^2 + (2 * x * y) + y^2)`<br>
+>`+ }`<br>
+>`> result <- square(5, z)`<br>
+>even if z == NULL no error message since y = z never gets evaluated in the function<br>
+>`> result`<br>
+>`5^2 + (2 * 5 * z) + z^2`<br>
+>`> eval(result)`<br>
+>`Error in eval(result) : object 'z' not found`<br>
+>`> eval(result, list(z = 5))`<br>
+>`[1] 100`<br>
+
+I can't really blame anyone who goes for the potential of this and starts using it excessively, but for the rest of us, it seems complete witchery. :D<br>
+Anyways, this chapter helped a lot. It will take some time tho, to grab all the floating functions and approaches and start tying them to their place, which they finally have.
+
+**Link to tweet:** [Day 5](insertLinkToTweet)

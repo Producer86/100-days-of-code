@@ -157,4 +157,4 @@ This chapter is a good candidate for the "if you read only one, read this"-title
 I can't really blame anyone who goes for the potential of this and starts using it excessively, but for the rest of us, it seems complete witchery. :D<br>
 Anyways, this chapter helped a lot. It will take some time tho, to grab all the floating functions and approaches and start tying them to their place, which they finally have.
 
-**Link to tweet:** [Day 5](insertLinkToTweet)
+**Link to tweet:** [Day 5](https://twitter.com/SzunTB/status/1050941702591193089)

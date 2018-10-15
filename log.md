@@ -176,6 +176,4 @@ Chapter 10 was about the parsing process. Things like valid identifiers, constan
 
 And this wraps up the R Language Definition, next comes R Internals.
 
-**Link to tweet:** [Day 6](insertLinkToTweet)
-
-**Link to work:** [nameOfWork](insertLinkHere)
+**Link to tweet:** [Day 6](https://twitter.com/SzunTB/status/1051894373628170241)

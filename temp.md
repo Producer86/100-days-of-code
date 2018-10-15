@@ -8,6 +8,6 @@ Day 1: Monday October 10, 2018
 
 **Thoughts:** Write additional thoughts here.
 
-**Link to tweet:** [yourName Day 1](insertLinkToTweet)
+**Link to tweet:** [Day 1](insertLinkToTweet)
 
 **Link to work:** [nameOfWork](insertLinkHere)

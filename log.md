@@ -158,3 +158,24 @@ I can't really blame anyone who goes for the potential of this and starts using 
 Anyways, this chapter helped a lot. It will take some time tho, to grab all the floating functions and approaches and start tying them to their place, which they finally have.
 
 **Link to tweet:** [Day 5](https://twitter.com/SzunTB/status/1050941702591193089)
+
+---
+<a id="day6"></a>
+<h2 align="center">
+Day 6: Monday October 15, 2018
+</h2>
+
+**Today’s Progress**: Finished chapter 7, 8, 9, 10 in the R manual.
+
+**Thoughts:**
+
+Chapter 7 was only a page long, mentioning some OS functions, but there's a whole separate manual for that topic.<br>
+Chapter 8 was even more brief about exceptions, guess I will stick to purrr::safely.<br>
+Chapter 9 was about debugging. The only new thing for me was the trace/untrace functions, but I really like the idea. Printing out a message and the arguments when a function gets called is something I do really frequently.<br>
+Chapter 10 was about the parsing process. Things like valid identifiers, constants, operator precedence, etc. Not the most glamorous things, but gotta go through them to see if there are any surprises.
+
+And this wraps up the R Language Definition, next comes R Internals.
+
+**Link to tweet:** [Day 6](insertLinkToTweet)
+
+**Link to work:** [nameOfWork](insertLinkHere)

@@ -177,3 +177,20 @@ Chapter 10 was about the parsing process. Things like valid identifiers, constan
 And this wraps up the R Language Definition, next comes R Internals.
 
 **Link to tweet:** [Day 6](https://twitter.com/SzunTB/status/1051894373628170241)
+
+---
+<a id="day7"></a>
+<h2 align="center">
+Day 7: Monday October 16, 2018
+</h2>
+
+**Today’s Progress**: Started reading R internals.
+
+![under-hood](https://user-images.githubusercontent.com/28347433/47049957-047b6100-d19f-11e8-91de-1bfbc6a8afc4.jpg)
+
+**Thoughts:**
+
+This manual looks like a tour in the R source code, which I like a lot. I hope to move fast since I don't think I will take many notes and really just want to take a peek and get a feel what's going on.<br>
+Still have some open questions mainly about NSE, which might or might not get answered here, this is not necessarily the best place to look for answers, but it's fun to look around anyways.
+
+**Link to tweet:** [Day 7](https://twitter.com/SzunTB/status/1052334043092594688)

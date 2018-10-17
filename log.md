@@ -194,3 +194,17 @@ This manual looks like a tour in the R source code, which I like a lot. I hope t
 Still have some open questions mainly about NSE, which might or might not get answered here, this is not necessarily the best place to look for answers, but it's fun to look around anyways.
 
 **Link to tweet:** [Day 7](https://twitter.com/SzunTB/status/1052334043092594688)
+
+---
+<a id="day8"></a>
+<h2 align="center">
+Day 8: Monday October 10, 2018
+</h2>
+
+**Today’s Progress**: Proceeded in R internals.
+
+**Thoughts:**
+
+Today is one of those days, the didn't-get-much-sleep, distracted, unfocused one, also not many thoughts about the tings I've read (doesn't mean there weren't good info tho, like diffence between special and builtin functions is good to know for example)
+
+**Link to tweet:** [Day 1](https://twitter.com/SzunTB/status/1052662493405949952)

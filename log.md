@@ -181,7 +181,7 @@ And this wraps up the R Language Definition, next comes R Internals.
 ---
 <a id="day7"></a>
 <h2 align="center">
-Day 7: Monday October 16, 2018
+Day 7: Tuesday October 16, 2018
 </h2>
 
 **Today’s Progress**: Started reading R internals.
@@ -198,7 +198,7 @@ Still have some open questions mainly about NSE, which might or might not get an
 ---
 <a id="day8"></a>
 <h2 align="center">
-Day 8: Monday October 10, 2018
+Day 8: Wednesday October 17, 2018
 </h2>
 
 **Today’s Progress**: Proceeded in R internals.
@@ -208,3 +208,16 @@ Day 8: Monday October 10, 2018
 Today is one of those days, the didn't-get-much-sleep, distracted, unfocused one, also not many thoughts about the tings I've read (doesn't mean there weren't good info tho, like diffence between special and builtin functions is good to know for example)
 
 **Link to tweet:** [Day 1](https://twitter.com/SzunTB/status/1052662493405949952)
+
+---
+<a id="day9"></a>
+<h2 align="center">
+Day 9: Friday October 19, 2018
+</h2>
+
+**Today’s Progress**: Finished chapter 1 in R Internals.
+
+**Thoughts:**
+So much for moving fast :) But on the other hand, I don't want to just skim it through even if it is dry because what's the value in doing that? Even if it is not instantly applicable it's nice to see approaches about solving different problems.
+
+**Link to tweet:** [Day 9](https://twitter.com/SzunTB/status/1053425295204802565)

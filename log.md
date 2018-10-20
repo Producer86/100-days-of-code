@@ -221,3 +221,18 @@ Day 9: Friday October 19, 2018
 So much for moving fast :) But on the other hand, I don't want to just skim it through even if it is dry because what's the value in doing that? Even if it is not instantly applicable it's nice to see approaches about solving different problems.
 
 **Link to tweet:** [Day 9](https://twitter.com/SzunTB/status/1053425295204802565)
+
+---
+<a id="day10"></a>
+<h2 align="center">
+Day 10: Saturday October 20, 2018
+</h2>
+
+**Today’s Progress**: Finished chapter 2, 3, 4, 5 in R Internals.
+
+**Thoughts:** 
+Chapter 2 was about the differences between primitive and internal functions.
+As far as I understand primitives are compiled directly from C to R and internals are primitive calls wrapped in R functions so things like argument name matching work.
+Chapter 3 was about internationalization, 4 about the structure of packages and 5 about the file system. Really brief chapters all.
+
+**Link to tweet:** [Day 1](https://twitter.com/SzunTB/status/1053703303576674314)

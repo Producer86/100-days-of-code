@@ -235,4 +235,17 @@ Chapter 2 was about the differences between primitive and internal functions.
 As far as I understand primitives are compiled directly from C to R and internals are primitive calls wrapped in R functions so things like argument name matching work.
 Chapter 3 was about internationalization, 4 about the structure of packages and 5 about the file system. Really brief chapters all.
 
-**Link to tweet:** [Day 1](https://twitter.com/SzunTB/status/1053703303576674314)
+**Link to tweet:** [Day 10](https://twitter.com/SzunTB/status/1053703303576674314)
+
+---
+<a id="day11"></a>
+<h2 align="center">
+Day 11: Wednesday October 24, 2018
+</h2>
+
+**Today’s Progress**: Finished chapter 6 in R Internals.
+
+**Thoughts:**
+This was about graphics in R and was mainly written from a perspective of someone who plans to write his/her own graphics device, so I move faster than usual in this one.
+
+**Link to tweet:** [Day 11](https://twitter.com/SzunTB/status/1055020010152910848)

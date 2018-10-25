@@ -246,6 +246,20 @@ Day 11: Wednesday October 24, 2018
 **Today’s Progress**: Finished chapter 6 in R Internals.
 
 **Thoughts:**
-This was about graphics in R and was mainly written from a perspective of someone who plans to write his/her own graphics device, so I move faster than usual in this one.
+This was about graphics in R and was mainly written from a perspective of someone who plans to write his/her own graphics device, so I moved faster than usual in this one.
 
 **Link to tweet:** [Day 11](https://twitter.com/SzunTB/status/1055020010152910848)
+
+---
+<a id="day12"></a>
+<h2 align="center">
+Day 12: Thursday October 25, 2018
+</h2>
+
+**Today’s Progress**: Finished R Internals, started Machine Learning for Hackers.
+
+**Thoughts:**
+Overall R Internals was more reference flavored than a guide, but still got some usable info from it, so moving on to the next one.<br>
+I'm really curious about this one, sadly don't have time to take a deep dive so only read the preface, looking forward to it.
+
+**Link to tweet:** [Day 12](https://twitter.com/SzunTB/status/1055362297814761472)

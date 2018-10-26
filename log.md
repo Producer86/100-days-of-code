@@ -263,3 +263,23 @@ Overall R Internals was more reference flavored than a guide, but still got some
 I'm really curious about this one, sadly don't have time to take a deep dive so only read the preface, looking forward to it.
 
 **Link to tweet:** [Day 12](https://twitter.com/SzunTB/status/1055362297814761472)
+
+---
+<a id="day13"></a>
+<h2 align="center">
+Day 13: Friday October 26, 2018
+</h2>
+
+**Today’s Progress**: Continuing with the book I started to analyze UFO sightings data.
+
+**Thoughts:**
+Somehow I spent more time than usual doing this, yet I feel like I progressed less.<br>
+Of course, there were the mandatory laps, like basic R stuff, then got stuck at the very first code example.
+>`good.rows<-ifelse(nchar(ufo$DateOccurred)>!=8 | nchar(ufo$DateReported)!=8,FALSE,TRUE)`<br>
+
+So first, there's a typo there, second, the author speaks about how ifelse is the vectorized version of if, which is all right, but since basic operators are vectorized anyways, this is just an overly complicated way of writing something like this:
+>`good.rows <- nchar(ufo$DateReported) == 8 & nchar(ufo$DateOccurred) == 8`<br>
+
+Well, great start :D
+
+**Link to tweet:** [Day 13](https://twitter.com/SzunTB/status/1055717049790533632)

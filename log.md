@@ -283,3 +283,15 @@ So first, there's a typo there, second, the author speaks about how ifelse is th
 Well, great start :D
 
 **Link to tweet:** [Day 13](https://twitter.com/SzunTB/status/1055717049790533632)
+
+---
+<a id="day14"></a>
+<h2 align="center">
+Day 14: Saturday October 27, 2018
+</h2>
+
+**Today’s Progress**: Finished chapter 1 in Machine Learning for Hackers.
+
+**Thoughts:** I'll just get over the quirks in the code, and focus on the higher level picture, this way I think I'll get a better value from this book. This chapter was just an introduction, to get one's feet wet, it was fine.
+
+**Link to tweet:** [Day 13](https://twitter.com/SzunTB/status/1056111007330979840)

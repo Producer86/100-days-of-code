@@ -294,4 +294,18 @@ Day 14: Saturday October 27, 2018
 
 **Thoughts:** I'll just get over the quirks in the code, and focus on the higher level picture, this way I think I'll get a better value from this book. This chapter was just an introduction, to get one's feet wet, it was fine.
 
-**Link to tweet:** [Day 13](https://twitter.com/SzunTB/status/1056111007330979840)
+**Link to tweet:** [Day 14](https://twitter.com/SzunTB/status/1056111007330979840)
+
+---
+<a id="day15"></a>
+<h2 align="center">
+Day 15: Sunday October 28, 2018
+</h2>
+
+**Today’s Progress**: Read through the first part of the data exploration chapter.
+
+**Thoughts:** Really basic statistic stuff, mean, mode, quantiles, variance, sd. It is what it is.
+
+**Link to tweet:** [Day 15](https://twitter.com/SzunTB/status/1056460582877048832)
+
+

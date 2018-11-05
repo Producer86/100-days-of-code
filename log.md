@@ -308,4 +308,39 @@ Day 15: Sunday October 28, 2018
 
 **Link to tweet:** [Day 15](https://twitter.com/SzunTB/status/1056460582877048832)
 
+---
+<a id="day16"></a>
+<h2 align="center">
+Day 16: Monday October 29, 2018
+</h2>
 
+**Today’s Progress**: Finished chapter 2.
+
+**Thoughts:** 
+Read about some common distribution types then explored a height, weight, gender dataset.
+
+**Link to tweet:** [Day 16](https://twitter.com/SzunTB/status/1056848034049466368)
+
+---
+<a id="day17"></a>
+<h2 align="center">
+Day 17: Tuesday October 30, 2018
+</h2>
+
+**Today’s Progress**: Started chapter 3
+
+**Thoughts:** Wrote a daily log VSCode snippet then started chapter 3, working on a ham-or-spam classifier.
+
+**Link to tweet:** [Day 17](https://twitter.com/SzunTB/status/1057226376326066181)
+
+---
+<a id="day18"></a>
+<h2 align="center">
+Day 18: Thursday November 01, 2018
+</h2>
+
+**Today’s Progress**: Cleaned up data from spamassassin and built a TDM from it.
+
+**Thoughts:** Some files contained shell commands and some had empty messages.
+
+**Link to tweet:** [Day 18](https://twitter.com/SzunTB/status/1059393416457584640)
